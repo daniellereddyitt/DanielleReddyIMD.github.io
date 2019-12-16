@@ -1,0 +1,42 @@
+body
+{  
+}
+
+
+.container 
+{
+    width: 10px;
+   height: 10px;
+   
+}
+
+.img-circle
+{
+    float: right;
+}
+
+#aboutMe
+{
+    background-color: white;
+}
+
+.navbar navbar-inverse
+{
+    position: fixed; 
+    width: 97%
+}
+
+.container-fluid
+{
+    border: 3px solid;
+}
+
+.profiler
+{
+    width: 25%;
+}
+
+header
+{
+    background: #55d6aa;
+}

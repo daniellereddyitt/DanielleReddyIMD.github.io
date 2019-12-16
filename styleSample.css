@@ -1,0 +1,77 @@
+#role
+{
+    font-style: bold;
+    text-align: center;
+}
+
+#search
+{
+    text-align: right;
+    margin-left: 80%;
+}
+
+#aboutMe, #education, #projects, #workExp, header{
+    margin-left: 	1em; 
+    padding-top:	5em;
+}
+
+.flex-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card
+{
+    font-style: bold;
+}
+
+#hobbies{
+    margin-left: 150px;
+}
+#workExp
+{
+    text-align: right;
+}
+
+#profile
+{
+    position: absolute;
+    left: 50%;
+    align-self: center;
+    float: mx
+    
+}
+ 
+header {
+    text-align: center;
+    color:			green;
+}
+  
+.img-circle
+{
+    text-align: center;
+}
+
+header p{
+    color:			black;
+    padding:		1em 10em 0em 10em;
+}
+
+#welcomeButtons {
+    
+    display: 		table;
+    margin: 		0 auto;
+    float: right;
+}
+
+#ppInfo
+{
+    text-align: right;
+}
+
+#SAP 
+{
+    color: #0069b0;
+}
